@@ -305,4 +305,3 @@ function startSonglol()
 	
 		MusicBeatState.switchState(new PlayState());
 	}
-}
