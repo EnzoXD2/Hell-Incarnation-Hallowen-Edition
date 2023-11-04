@@ -294,14 +294,6 @@ class MainMenuState extends MusicBeatState
 
 function startSonglol()
 	{
-		PlayState.storyPlaylist = ['twisted-frights'];
-		PlayState.isStoryMode = true;
-
-		PlayState.SONG = Song.loadFromJson(StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase(), StringTools.replace(PlayState.storyPlaylist[0]," ", "-").toLowerCase());        
-		PlayState.campaignScore = 0;
-		PlayState.storyDifficulty = 2;
-		Paths.currentModDirectory = "shared";
-		Paths.currentLevel = "shared";
-	
-		MusicBeatState.switchState(new PlayState());
+		PlayState.SONG = Song.loadFromJson('twisted-frights-hard', 'twisted-frights');
+		LoadingState.loadAndSwitchState(new PlayState(), true);
 	}
