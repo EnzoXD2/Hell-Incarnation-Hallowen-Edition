@@ -264,6 +264,14 @@ class PlayState extends MusicBeatState
 	var tankmanRun:FlxTypedGroup<TankmenBG>;
 	var foregroundSprites:FlxTypedGroup<BGSprite>;
 
+	// - stage
+	var mainBG:BGSprite;
+	var clounds:BGSprite;
+	var higuys:BGSprite;
+	var idkmou:BGSprite;
+	var idkmou2:BGSprite;
+	var floorlool:BGSprite;
+
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
 	public var songMisses:Int = 0;
