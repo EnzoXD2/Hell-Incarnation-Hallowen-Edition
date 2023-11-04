@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hotdogsonic.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hot dog0000" x="0" y="0" width="444" height="539" frameX="0" frameY="-8" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0001" x="0" y="0" width="444" height="539" frameX="0" frameY="-8" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0002" x="444" y="0" width="439" height="542" frameX="-2" frameY="-6" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0003" x="444" y="0" width="439" height="542" frameX="-2" frameY="-6" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0004" x="883" y="0" width="437" height="545" frameX="-3" frameY="-3" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0005" x="883" y="0" width="437" height="545" frameX="-3" frameY="-3" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0006" x="1320" y="0" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0007" x="1320" y="0" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0008" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0009" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0010" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0011" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0012" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0013" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+	<SubTexture name="hot dog0014" x="0" y="548" width="437" height="548" frameX="-3" frameY="0" frameWidth="444" frameHeight="548"/>
+</TextureAtlas>

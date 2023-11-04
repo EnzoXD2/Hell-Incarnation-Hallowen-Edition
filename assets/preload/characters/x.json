@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "scary down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "scary idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "scary left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "scary right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scary up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/x",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "x",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		43,
+		105
+	],
+	"camera_position": [
+		270,
+		-170
+	],
+	"sing_duration": 8.7,
+	"scale": 2
+}

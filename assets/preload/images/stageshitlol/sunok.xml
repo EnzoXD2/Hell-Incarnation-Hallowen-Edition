@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunok.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jesussonic0000" x="0" y="0" width="580" height="732" frameX="-4" frameY="-8" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0001" x="0" y="0" width="580" height="732" frameX="-4" frameY="-8" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0002" x="580" y="0" width="579" height="738" frameX="-4" frameY="-5" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0003" x="580" y="0" width="579" height="738" frameX="-4" frameY="-5" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0004" x="1159" y="0" width="578" height="732" frameX="0" frameY="-4" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0005" x="1159" y="0" width="578" height="732" frameX="0" frameY="-4" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0006" x="0" y="738" width="577" height="731" frameX="0" frameY="-1" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0007" x="0" y="738" width="577" height="731" frameX="0" frameY="-1" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0008" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0009" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0010" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0011" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0012" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+	<SubTexture name="jesussonic0013" x="577" y="738" width="577" height="730" frameX="0" frameY="0" frameWidth="584" frameHeight="743"/>
+</TextureAtlas>
